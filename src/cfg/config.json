@@ -1,0 +1,19 @@
+{
+    "WHITELIST": {
+		"jiwonz": "647835712602767361"
+	},
+    "DEVELOPERS": ["jiwonz"],
+
+    "STATUS": {
+        "inDev": false
+    },
+
+    "ACTIVITY": {
+        "normal": ";luau",
+        "inDev": "Currently in development mode"
+    },
+
+    "IN_DEV_MESSAGE": "Sorry, The bot is currently in development mode. Available to bot developers only.",
+	"COMMAND_PREFIX": ";",
+    "DEV_COMMAND_PREFIX": "!"
+}

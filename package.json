@@ -1,0 +1,26 @@
+{
+  "name": "cmdisco_discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon --exec 'swc-node' src/index.ts",
+    "start": "swc-node src/index.ts",
+    "check": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "await-spawn": "^4.0.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "pidusage": "^3.0.2",
+    "swc": "^1.0.11",
+    "swc-node": "^1.0.0",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.4"
+  }
+}
